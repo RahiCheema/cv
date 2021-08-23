@@ -1,0 +1,105 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin-top: 0;
+  font-family: 'Dancing Script', cursive;
+  position: relative;
+  color: #66BFBF;
+}
+
+h2{
+color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+}
+
+hr{
+  border-color: grey;
+  width: 5%;
+  border-width: 5px;
+  border-style: none;
+  border-top-style: dotted;
+}
+
+
+a {
+  color: #11999E;
+}
+
+.web {
+  margin-top: 0;
+  font-family: 'Lora', serif;
+  position: relative;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.top {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+  line-height: 2;
+
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px;
+  text-align: left;
+}
+
+.dev-para{
+  line-height: 2;
+
+}
+.dev-para2{
+  line-height: 2;
+}
+
+.bottom-para{
+  line-height: 2;
+}
+
+
+.profile-pic {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 360px;
+}
+
+.top-cloud {
+  position: relative;
+  left: 180px;
+}
+
+.skills-img {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-right: 30px;
+}
+
+.hot-wings-img{
+  width: 100px;
+  height: 100px;
+  float: right;
+  margin-left: 30px;
+}
+.copyright{
+  color:#EAF6F6;
+}
